@@ -58,7 +58,7 @@
     "@types/react-dom": "^18.0.11",
     "@types/semver": "^7.3.13",
     "@types/strftime": "^0.9.4",
-    "critters": "^0.0.16",
+    "critters": "^0.0.20",
     "cross-env": "^7.0.3",
     "eslint": "^8.36.0",
     "eslint-config-next": "^13.2.4",
