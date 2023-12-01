@@ -9,7 +9,7 @@ LF Collaborative Projects Header and Footer
   font-weight: 300;
   color: #FFF;
   background: #404042;
-  # background-image: linear-gradient(right, #404042 0%, #3b393b 69%);
+
   background-image: -o-linear-gradient(right, #404042 0%, #3b393b 69%);
   background-image: -moz-linear-gradient(right, #404042 0%, #3b393b 69%);
   background-image: -webkit-linear-gradient(right, #404042 0%, #3b393b 69%);
