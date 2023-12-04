@@ -135,7 +135,7 @@ function MyGraph (graphContainerElement) {
         var d = d3.select(this).node().__data__
 
         node.style('opacity', function (o) {
-          return neighboring(d, o) | neighboring(o, d) ? 1 : 0
+
         })
 
         d3.selectAll('.link')
