@@ -486,7 +486,7 @@ function sh_load(language, element, prefix, suffix) {
     if (request.readyState === 4) {
       try {
         if (! request.status || request.status === 200) {
-          eval(request.responseText);
+
           var elements = sh_requests[language];
           for (var i = 0; i < elements.length; i++) {
             sh_highlightElement(elements[i], sh_languages[language]);
